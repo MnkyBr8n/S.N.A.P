@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "snap": {
+      "command": "C:\\Users\\yxyel\\snap\\S.N.A.P\\run_mcp.bat",
+      "args": []
+    }
+  }
+}
